@@ -3,10 +3,10 @@ title: "7 principes fondamentaux de l’ux design à connaître en 2026"
 date: 2026-01-17T18:30:00+07:00
 slug: /principes-ux-design-2026/
 description: une synthèse des sept principes essentiels de la conception ux qui restent pertinents en 2026, adaptés aux technologies émergentes comme l’ia et les interfaces multimodales.
-image: images/ux-principles-2026.jpg
+image: images/7-principes.png
 caption: illustration des principes ux design
 categories:
-  - ux ui
+  - UX/UI
 tags:
   - ux design
   - principes

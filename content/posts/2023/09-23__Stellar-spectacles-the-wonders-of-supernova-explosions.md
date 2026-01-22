@@ -6,7 +6,7 @@ description: analyser le rôle des micro-interactions dans l’expérience utili
 image: images/micro-interactions.png
 caption: Généré par ChatGPT
 categories:
-  - ux ui
+  - UX/UI
 tags:
   - micro-interactions
   - expérience utilisateur

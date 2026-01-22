@@ -6,7 +6,7 @@ description: expliquer comment j’ai construit mon système de veille en ux ui 
 image: images/apprentissage.png
 caption: Généré par ChatGPT
 categories:
-  - ux ui
+  - UX/UI
 tags:
   - veille
   - apprentissage

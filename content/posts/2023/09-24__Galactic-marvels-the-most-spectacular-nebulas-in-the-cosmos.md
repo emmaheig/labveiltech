@@ -6,7 +6,7 @@ description: comprendre comment les principes de motion et d’interaction de ma
 image: images/motion.png
 caption: Généré par ChatGPT
 categories:
-  - ux ui
+  - UX/UI
 tags:
   - motion design
   - interaction
